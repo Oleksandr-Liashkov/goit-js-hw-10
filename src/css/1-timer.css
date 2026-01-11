@@ -30,6 +30,7 @@
   &:disabled {
     background-color: #fafafa;
     color: #808080;
+    cursor: not-allowed;
   }
 }
 
@@ -54,6 +55,7 @@
   &:disabled {
     background-color: #cfcfcf;
     color: #989898;
+    cursor: not-allowed;
   }
 }
 
